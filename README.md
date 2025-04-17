@@ -69,7 +69,7 @@ The first time you connect, you'll be prompted to accept the host fingerprint—
 
 If you connect to servers frequently, create profiles in `~/.ssh/config` to simplify connections:
 
-1. Open (or create) `C:\Users\YourUsername\.ssh\config` in a text editor
+1. Open (or create) `C:\Users\YourUsername\.ssh\config` in a text editor. Make sure that when you save the file it will not have ".txt" extension. It should be plain a document.
 2. Add configurations for each server:
 
 ```
